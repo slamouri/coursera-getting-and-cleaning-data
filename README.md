@@ -5,7 +5,7 @@ This repository contains the solution to the project for the coursera class: Get
 
 The solution script, run_analysis.R included in this repository, acts on the the dataset derived from the "Human Activity Recognition Using Smartphones Data Set" made avaiable here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-The script produces the space-sepatated result data set, tidy.txt also made available in this repository.
+The script produces the space-separated result data set, tidy.txt also made available in this repository.
 
 Descrition
 ----------
